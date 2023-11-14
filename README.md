@@ -1,4 +1,4 @@
-# Unity_3D Rpg Portfolio
+# Unity_3D RPG Portfolio
 ## Project Introduction
 Unity Engine 기반으로 제작한 RPG 포트폴리오입니다.
 Gust사의 대표작인 '아틀리에 시리즈'를 참고해 만들었습니다.
