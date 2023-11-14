@@ -2,6 +2,7 @@
 ## Project Introduction
 Unity Engine 기반으로 제작한 RPG 포트폴리오입니다.
 Gust사의 대표작인 '아틀리에 시리즈'를 참고해 만들었습니다.
+현재 Repository에는 Script만 존재합니다.
 
 ## Project Overview
 - 게임명 : Uni Atelier(유니의 아틀리에)
