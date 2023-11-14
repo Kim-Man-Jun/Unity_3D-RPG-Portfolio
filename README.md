@@ -1,1 +1,16 @@
-# Unity_3D-Rpg-Portfolio
+# Unity_3D Rpg Portfolio
+## Project Introduction
+Unity Engine 기반으로 제작한 RPG 포트폴리오입니다.
+Gust사의 대표작인 '아틀리에 시리즈'를 참고해 만들었습니다.
+
+## Project Overview
+- 게임명 : Uni Atelier(유니의 아틀리에)
+- 개발기간 : 2023.09.22 ~ 2023.11.10 (7주)
+- 개발도구 : Unity, GitHub
+- 개발언어 : C#
+
+## Project Statement
+- 링크 :
+
+## Project Video
+- 링크 : 
