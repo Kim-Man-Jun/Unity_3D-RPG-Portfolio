@@ -36,7 +36,7 @@ public class StartScene : MonoBehaviour
 
     private void Start()
     {
-        //°ÔÀÓ ½ÃÀÛ ¾À
+        //ì‹œìž‘ ì”¬
         if (titleImage != null)
         {
             SceneSoundManager.instance.OpeningSound();
@@ -54,8 +54,8 @@ public class StartScene : MonoBehaviour
 
             StartCoroutine(gameStartUI());
         }
-
-        //°ÔÀÓ ¿À¹ö ¾À
+        
+        //ê²Œìž„ì˜¤ë²„ ì”¬
         if (retryButton != null)
         {
             SceneSoundManager.instance.GameOverSound();
